@@ -76,3 +76,23 @@ Marks will be awarded based on the following areas:
 * the completion of each programming task
 * a complete structure chart
 * an accurately-drawn program flowchart
+
+<br />
+
+### Tasks
+
+* [Task One](tasks/TaskOne.cs)
+* [Task Two](tasks/TaskTwo.cs)
+* [Task Three](tasks/TaskThree.cs)
+
+<br />
+
+### Flowchart
+
+![Flowchart](assets/CPS_Coursework_Flowchart.png)
+
+<br />
+
+### Structure chart
+
+![Structure Chart](assets/CPS_Coursework_Structurechart.png)
